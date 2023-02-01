@@ -1,0 +1,688 @@
+body{
+    direction: rtl;
+    overflow-x: hidden;
+
+
+
+}
+header{
+    /*
+    background-color:#1a237e;
+    */
+    width:99.33%;
+    border-radius:10px;
+    position:fixed;
+    z-index:99999;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    height:75px;
+    margin-top:-50pX;
+    background-image: linear-gradient(-170deg, #FBC2EB, #78A3EB   );
+
+
+
+}
+
+
+.logo{
+    text-decoration: none;
+    color: red;
+    font-size: 45px;
+    font-weight: bolder ;
+    font-style: italic;
+    position: relative;
+    left: -80px;
+
+    
+}
+
+
+.art{
+    position: relative;
+    right: -80px;
+    text-decoration: none;
+    font-size: xx-large;
+    color: #000000;
+
+
+}
+
+.carlogoh{
+    /*
+    لوجو موتورز كار
+    */
+    width: 190px;
+    height: 120px;
+
+
+}
+
+.frist{
+
+    position: relative;
+    top: 180px;
+    text-align: center;
+    font-size: 75px;
+    font-weight:bolder ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.car1{
+    /*
+    اول صورة في الموقع 
+
+    */
+    position: relative;
+    top: 200px;
+    right: 65px;
+    width: 1100px;
+    height: 590px;
+
+}
+.foo{
+    /*
+    تاني صورة في الموقع
+
+    */
+    width: 900px;
+    height: 500px;
+    margin-right: 100px;
+
+}
+.qwe{
+    /*
+        ثالث صورة في الموقع
+
+    */
+    width: 900px;
+    height: 400px;
+    margin-right: 100px;
+
+
+}
+
+.qw{
+    /*
+        رابع صورة في الموقع
+
+    */
+    width: 950px;
+    height: 500px;
+    margin-right: 100px;
+
+
+
+}
+
+.qww{
+    width: 950px;
+    height: 500px;
+    margin-right: 100px;
+    margin-top: 50px;
+
+
+
+}
+
+.back{
+    
+    background-color: #b7cdda;
+    height: 600px;
+    width: 960px;
+    border-radius: 50px;
+    
+
+}
+
+
+.wri{
+    
+    margin-top: 400px;
+    font-size: 40px;
+
+}
+
+.all{
+    /*
+    كل محتويات الصفحة هنا
+
+    */
+    font-size: 30px;
+    margin-right: 30px;
+
+}
+
+.ww{
+    font-size: 30px;
+    margin-right: 50px;
+
+
+}
+
+#col{
+    color: blue;
+    font-size: 44px;
+    margin-right:10px ;
+
+}
+
+h3{
+    color: blue;
+    font-size: 35px;
+    margin: 50px 40px 10px 0px;
+
+
+} 
+.dfd{
+    padding-top: 10px;
+
+
+}
+li{
+    padding: 10px 5px 8px 0px;
+    list-style-type: disc;
+    font-size: 30px;
+    margin-right: 50px;
+
+}
+h4{
+    font-size: 30px;
+    margin-right: 30px;
+
+
+}
+
+mark{
+    color: red;
+    font-size: 40px;
+    background-color: white;
+
+}
+.cvc{
+    color: blue;
+    font-size: 44px;
+
+
+
+
+}
+h5{
+    font-size: 45px;
+    background-color: #80cbc4 ;
+    width: fit-content;
+    margin-right: 370px;
+    padding: 30px;
+    border-radius: 15px;
+
+    
+}
+
+
+
+td{
+    width: 280px;
+    font-size: x-large;
+    font-style: italic;
+    padding: 10px;
+    color: red;
+}
+table{
+    margin-right: 300px;
+    border-radius: 8px;
+
+
+}
+
+.container{
+    margin-top: 80px;
+    width: 80%;
+    margin-right: 100px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 930px;
+
+
+}
+.swiper{
+    width: 100%;
+    height: fit-content;
+    border-radius: 25px;
+
+
+
+}
+.swiper-slide img{
+    width: 100%; 
+    height: 550px;
+
+
+
+
+}
+.swiper .swiper-button-prev, .swiper .swiper-button-next{
+    color: blue;
+
+
+}
+.swiper .swiper-pagination-bullet-active{
+    background-color: red;
+    
+
+
+}
+.carlogo{
+    position: relative;
+    top: -15px;
+    width: 460px;
+    height: 200px;
+    margin: auto;
+
+
+}
+
+
+
+.footer{
+    position: relative;
+    top: 50px;
+    color: white;
+    background-size: cover;
+    text-align: center;
+    background-image: url(to/a3.jpeg);
+
+
+
+}
+.contai{
+    position: relative;
+
+
+
+}
+#wee{
+    padding: 20px;
+
+    font-size: 45px;
+    width: fit-content;
+    margin: auto;
+    position: relative;
+    right: 0px;
+    bottom: 20px;
+    color:white;
+
+
+}
+.icons{
+    position: relative;
+    right: 90px;
+    bottom: 50px;
+    width: 500px;
+
+}
+.copyright{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 30px;
+    border-bottom: 3px solid white;
+    padding-bottom: 10px;
+    width:fit-content ;
+    direction: ltr;
+    color:white;
+    position: relative;
+    right: 400px;
+}
+span{
+    font-size: 23px;
+
+
+}
+.linked,.book,.inter,.gmail,.git{
+    width: 35px;
+    height: 35px;
+    padding: 8px;
+    position: relative;
+    left: 140px;
+    top: 220px;
+
+
+}
+.shadow{
+    width: 320px;
+    position: relative;
+    right: 80px;
+    height: 230px;
+    box-shadow: 0px 0px 60px  10px  	#737f8a ;
+    border-radius: 15px;
+
+
+}
+
+.personal{
+    position: relative;
+    top: 50px;
+    left: 190px;
+    width: 50px;
+    height: 45px;
+
+}
+h2{
+    font-size: large;    
+    color: white;
+    position: relative;
+    left: 200px;
+
+
+
+}
+
+
+
+
+
+.loogo td{   
+    padding: 5px ;
+    height: 10px;
+    border-radius: 10px;
+    background-color: white;
+
+}
+
+.toyo{
+    width: 90px;
+    height: 70px;
+    padding-right: 25px;
+    margin-left: 25px;
+
+}
+
+.mers{
+    width: 90px;
+    height: 80px;
+    margin-right:20px ;
+
+}
+
+.hyu{
+    width: 100px;
+    height: 70px;
+    margin-right: 10px;
+
+}
+
+.bm{
+    width: 90px;
+    height: 80px;
+    padding-right: 25px;
+    margin-left: 25px;
+
+}
+
+.ki{
+    width: 100px;
+    height: 50px;
+    margin-left: 5px;
+ 
+}
+
+
+.chev{
+    width: 120px;
+    height: 80px;
+    margin-left: 10px;
+
+  
+}
+
+.lan{
+    width: 100px;
+    height: 80px;
+    margin-left: 10px;
+
+
+}
+
+.vol{
+    width: 90px;
+    height: 80px;
+    margin-right: 15px;
+
+}
+
+.maz{
+    width: 100px;
+    height: 70px;
+    margin-left: 10px;
+
+}
+
+.nis{
+    width: 90px;
+    height: 80px;
+    margin-right: 15px;
+
+
+}
+.jeeb{
+    width: 90px;
+    height: 80px;
+    margin-right: 15px;
+
+}
+
+
+.sko{
+    width: 94px;
+    height: 90px;
+    margin-left: 10px;
+
+
+}
+
+.m{
+    width: 110px;
+    height: 90px;
+    margin-left: 10px;
+
+}
+.opel{
+    width: 94px;
+    height:90px;
+    margin-left: 10px;
+
+
+}
+.Awdy{
+    width: 94px;
+    height: 90px;
+    margin-left: 10px;
+
+
+}
+
+
+.loogo{
+    position: relative;
+    bottom: 600px;
+    width: 50%;
+    margin: auto;  
+    border-radius: 27px;
+    background-color: lightcyan;
+
+
+}
+.exw .li{
+    margin-right: 40px;
+
+
+
+}
+.dsd{
+    display: inline;
+    position: relative;
+    right: 25px;
+
+
+}
+.coll{
+    font-size: 40px;
+    margin-right: 30px;
+    color: blue;
+
+
+
+}
+.oop{
+    position: relative;
+    top: -140px;
+    right: 240px;
+    font-size: 70px;
+    color: red;
+
+}
+p .rtr{
+    font-size: 30px;
+
+
+
+}
+ 
+.father{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    margin-bottom: 100px;
+}
+
+.onee{
+    background-image: linear-gradient(#4a148c, black 80%);
+    width: 210px;
+    height: 380px;
+    margin-left: 2px;
+    border-top-right-radius: 85px ;
+
+}
+
+.twoo{
+    background-image: linear-gradient(#4a148c, black 80%);
+    width: 210px;
+    height: 380px;
+    margin-left: 2px;
+}
+
+.threee{
+    width: 210px;
+    height: 380px;
+    background-image: linear-gradient(#4a148c, black 80%);
+    border-bottom-left-radius: 85px ;
+
+}    
+
+#ddd{
+    color: aliceblue;
+    font-size: 34px;
+    text-align: center;
+
+}
+
+#pns{
+    margin-right: 125px;
+    margin-top: 15px;
+}
+
+
+i{
+    font-size: 60px;
+    position: relative;
+    top: 400px;
+    right: 1150px;
+    transform: translate(-50%, -50%);
+    position: fixed;
+    z-index: 9000000000;
+
+
+    
+}
+
+
+
+
+
+.qww{
+    width: 270px;
+    height: 170px;
+    margin-right: 30px;
+    margin-top: 40px;
+    position: relative;
+    left: -50px;
+    border-radius: 20px;
+
+
+}
+
+.back, .backk{
+    background-image: url(foot/a1.jpeg);
+    background-size: cover;
+    height: 240px;
+    margin-right: 50px;
+    border-radius: 30px;
+    margin-left: 55px;
+}
+
+.der, .derr, .derrr{ 
+    display: flex;
+    direction: rtl;
+    height: 900px;
+    
+
+
+}
+
+.derr, .derrr{
+    margin-top: -570px;
+
+
+
+
+}
+.sssd{
+    margin-right: 430px;
+    background-image: linear-gradient(170deg, #8e24aa, #1a237e  );
+    color: red;
+    width: 380px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right:50px;
+    font-size: 30px;
+    border-radius: 25px;
+
+}
+.options{
+    background-color: #1a237e;
+    width: max-content;
+    color: white;
+    padding: 5px 15px 5px 15px;
+    margin-right: 80px;
+    margin-top: 0px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+
+
+
+}
+
+ 
+
+ 
+
+
+
+
+
